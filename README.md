@@ -1,13 +1,13 @@
 # Zone Based Pricing Module for Magento 2
-Are you looking to change the product prices based on your customers’ location?
+## Are you looking to change the product prices based on your customers’ location?
 Great news! We’ve got the perfect Magento 2 extension for you which will setup everything
 for you in less than 2 minutes.
 Zone Based Pricing Module for Magento 2 allows you to increase / decrease product prices
 either by percentage or fixed cost.
-For Example:
+<b>For Example:</b>
 If you want the product prices of New York to be higher by 10%, you can specify the postal
 codes and increase the prices based on percentage – 10% (or fixed price as well).
-Features:
+<h3>Features:</h3>
 1. Increase / Decrease product prices for different locations / zones.
 2. Customers will see product prices based on their location.
 3. Prices can be scheduled for a specific period of time.
@@ -19,7 +19,7 @@ Features:
 9. Assign priorities to relatable rules
 
 
-FAQs:
+<h3>FAQs:</h3>
 1. Does it work with Magento 2?
 - Yes, it is fully compatible with Magento 2.
 2. Where are the changes affected?
