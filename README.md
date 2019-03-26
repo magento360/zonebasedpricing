@@ -30,3 +30,6 @@ codes and increase the prices based on percentage – 10% (or fixed price as wel
 	<li>In how many ways can I increase / decrease the product prices?<br>- You can increase/decrease the prices either by a specified percentage or fixed cost.</li><br>
 	<li>Can I translate the extension in my language?<br>- Send an email to <a href="mailto:info@magento360.com">info@magento360.com</a> or Skype: <b> magento360team </b> for further details.</li>
 </ol>
+
+<h3>Demo:</h3>
+<a href="https://www.useloom.com/share/4a336c414bf54d7597773f6a66474c16"> View Demo</a>
