@@ -1,4 +1,4 @@
-Zone Based Pricing Module for Magento 2
+# Zone Based Pricing Module for Magento 2
 Are you looking to change the product prices based on your customers’ location?
 Great news! We’ve got the perfect Magento 2 extension for you which will setup everything
 for you in less than 2 minutes.
