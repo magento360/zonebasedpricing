@@ -34,6 +34,6 @@ product price based on postal codes.
 cost.
 
 4. Can I translate the extension in my language?
-- Send an email to info@magento360.com for further details.
+- Send an email to info@magento360.com or Skype: magento360team for further details.
 
 <img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/zone-based-pricing-module/zone-based-pricing-module.jpg" alt="Backend" />
