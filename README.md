@@ -1,12 +1,12 @@
 # Zone Based Pricing Module for Magento 2
-## Are you looking to change the product prices based on your customers’ location?
-Great news! We’ve got the perfect Magento 2 extension for you which will setup everything
-for you in less than 2 minutes.
-Zone Based Pricing Module for Magento 2 allows you to increase / decrease product prices
-either by percentage or fixed cost.
-<b>For Example:</b>
-If you want the product prices of New York to be higher by 10%, you can specify the postal
-codes and increase the prices based on percentage – 10% (or fixed price as well).
+<p>Are you looking to change the product prices based on your customers’ location?<br>Great news! We’ve got the perfect Magento 2 extension for you which will setup everything for you in less than 2 minutes.</p>
+<p>Zone Based Pricing Module for Magento 2 allows you to increase / decrease product prices
+either by percentage or fixed cost.</p>
+
+<h3>For Example:</h3>
+<p>If you want the product prices of New York to be higher by 10%, you can specify the postal
+codes and increase the prices based on percentage – 10% (or fixed price as well).</p>
+
 
 <h3>Features:</h3>
 <ol>
@@ -21,19 +21,13 @@ codes and increase the prices based on percentage – 10% (or fixed price as wel
 	<li>Assign priorities to relatable rules</li>
 </ol>
 
+
 <h3>FAQs:</h3>
-1. Does it work with Magento 2?
-- Yes, it is fully compatible with Magento 2.
+<ol>
+	<li>Does it work with Magento 2?<br>- Yes, it is fully compatible with Magento 2.</li>
+	<li>Where are the changes affected?<br>- The changes are in product price. You can either increase or decrease the product price based on postal codes.</li>
+	<li>In how many ways can I increase / decrease the product prices?<br>- You can increase/decrease the prices either by a specified percentage or fixed cost.</li>
+	<li>Can I translate the extension in my language?<br>- Send an email to info@magento360.com for further details.</li>
+</ol>
 
-2. Where are the changes affected?
-- The changes are in product price. You can either increase or decrease the
-product price based on postal codes.
-
-3. In how many ways can I increase / decrease the product prices?
-- You can increase/decrease the prices either by a specified percentage or fixed
-cost.
-
-4. Can I translate the extension in my language?
-- Send an email to info@magento360.com or Skype: magento360team for further details.
-
-<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/zone-based-pricing-module/zone-based-pricing-module.jpg" alt="Backend" />
+<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/zone-based-pricing-module/zone-based-pricing-module.jpg" alt="Backend" />
