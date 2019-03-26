@@ -28,5 +28,5 @@ codes and increase the prices based on percentage – 10% (or fixed price as wel
 	<li>Does it work with Magento 2?<br>- Yes, it is fully compatible with Magento 2.</li><br>
 	<li>Where are the changes affected?<br>- The changes are in product price. You can either increase or decrease the product price based on postal codes.</li><br>
 	<li>In how many ways can I increase / decrease the product prices?<br>- You can increase/decrease the prices either by a specified percentage or fixed cost.</li><br>
-	<li>Can I translate the extension in my language?<br>- Send an email to <a href="mailto:info@magento360.com">info@magento360.com</a> for further details.</li>
+	<li>Can I translate the extension in my language?<br>- Send an email to <a href="mailto:info@magento360.com">info@magento360.com</a> or Skype: <b> magento360team </b> for further details.</li>
 </ol>
