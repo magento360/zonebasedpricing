@@ -23,6 +23,8 @@ codes and increase the prices based on percentage – 10% (or fixed price as wel
 
 <img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/zone-based-pricing-module/zone-based-pricing-module.jpg" alt="Backend" />
 
+<img src="https://raw.githubusercontent.com/magento360/all-module-screenshots/master/zone-based-pricing-module/zone-based-pricing-module-2.jpg" alt="Backend" />
+
 <h3>FAQs:</h3>
 <ol>
 	<li>Does it work with Magento 2?<br>- Yes, it is fully compatible with Magento 2.</li><br>
